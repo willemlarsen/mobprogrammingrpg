@@ -32,3 +32,9 @@
 - Ignore the Driver, advising only the Navigator
 - Give the smallest cue necessary to move the Navigator (and rest of the mob) forward through the problem
 - Navigate the navigator at the highest level of abstraction they can successfully implement
+
+## Automationist
+- Point out a repeated task in a tool
+- Point out a repeated aspect of team process
+- Point out possible boiler plate code
+- Propose an automation for a repeated task
