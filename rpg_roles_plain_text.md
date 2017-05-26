@@ -38,3 +38,10 @@
 - Point out a repeated aspect of team process
 - Point out possible boiler plate code
 - Propose an automation for a repeated task
+
+## Nose
+- Point out a long line of code
+- Point out a complex conditional
+- Point out duplication
+- Point out an unnamed variable or method
+- Propose an action for deodorizing the code
