@@ -1,6 +1,5 @@
-
-b Programming: 
-the role playing game
+MOB PROGRAMMING: THE ROLE PLAYING GAME by Willem Larsen CC-BY-SA-NC 2016 
+Powered by the Apocalypse - thanks to BigBadCon 2016 for inspiration
 
 FOR GAME MASTER/FACILITATOR:
 
