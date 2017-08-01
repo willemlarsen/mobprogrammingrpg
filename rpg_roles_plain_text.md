@@ -28,7 +28,7 @@
 - Celebrate moments of excellence
 
 ## Rear Admiral
-- .Quietly speak into the navigators ear
+- Quietly speak into the navigators ear
 - Give the smallest cue necessary to move the Navigator forward through the problem
 - Navigate the navigator at the highest level of abstraction they can successfully implement
 
