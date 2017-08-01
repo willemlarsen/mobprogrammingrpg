@@ -28,9 +28,8 @@
 - Celebrate moments of excellence
 
 ## Rear Admiral
-- Contribute from your expertise
-- Ignore the Driver, advising only the Navigator
-- Give the smallest cue necessary to move the Navigator (and rest of the mob) forward through the problem
+- .Quietly speak into the navigators ear
+- Give the smallest cue necessary to move the Navigator forward through the problem
 - Navigate the navigator at the highest level of abstraction they can successfully implement
 
 ## Automationist
