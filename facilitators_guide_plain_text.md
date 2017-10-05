@@ -25,7 +25,7 @@ Set up an IDE with a test file in a coding language that at least one person in 
 Create one test failing successfully in a test file in the coding language of choice.
 Decide on some way to time rotations for three roles - Driver, Navigator and Mobber.  You will lead the rotation of Driver/Navigator positions every 5 minutes. The Driver becomes the new Navigator, the Navigator becomes a generic Mobber. Rotate consistently in a fixed order. 
 Install and Use the Mob Timer to guide mob role rotations (optional)
-Plan to solve the FizzBuzz kata - creating code that generates the output of “1, 2, Fizz, 3, 4, Buzz, 6, 7, 8, 9, 10, 11, 12, 13, 14, FizzBuzz, 16....” up to a given number.
+Plan to solve the FizzBuzz kata - creating code that generates the output of “1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz, 16....” up to a given number.
 Create and label a Mob Squad zone, a mob badge parking lot, by setting aside a piece of blank wall or whiteboard that will be covered in mob badges that individuals players complete. This becomes the group’s achievement, the total number of playbooks the members of completed.
 
 DURING THE GAME SESSION:
