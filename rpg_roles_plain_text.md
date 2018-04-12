@@ -43,4 +43,14 @@
 - Point out a complex conditional
 - Point out duplication
 - Point out an unnamed variable or method
-- Propose an action for deodorizing the code
+
+- Propose an action fo deodorizing the code
+
+## Nostalgist
+
+- propose a quick retrospective
+- the quick retro turns up the good
+
+
+
+
