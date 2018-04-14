@@ -43,8 +43,7 @@
 - Point out a complex conditional
 - Point out duplication
 - Point out an unnamed variable or method
-
-- Propose an action fo deodorizing the code
+- Propose an action for deodorizing the code
 
 ## Nostalgist
 
