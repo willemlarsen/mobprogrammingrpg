@@ -49,7 +49,3 @@
 
 - propose a quick retrospective
 - the quick retro turns up the good
-
-
-
-
