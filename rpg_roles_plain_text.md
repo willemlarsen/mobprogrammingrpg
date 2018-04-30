@@ -44,3 +44,9 @@
 - Point out duplication
 - Point out an unnamed variable or method
 - Propose an action for deodorizing the code
+
+## Archivist
+- Record solution alternatives on a big visible chart or whiteboard so they’re not forgotten
+- Express an idea as it is taking shape on a big visible chart or whiteboard	
+- Articulate the current task at hand and make it visible to the entire mob
+
