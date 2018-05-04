@@ -1,7 +1,7 @@
 # MOB PROGRAMMING: THE ROLE PLAYING GAME by Willem Larsen CC-BY-SA-NC 2016 
 Powered by the Apocalypse - thanks to BigBadCon 2016 for inspiration
 
-FOR GAME MASTER/FACILITATOR:
+# To the Game Master
 
 First of all, thanks for helping playtest this game! 
 
@@ -9,7 +9,7 @@ Your primary duty is that everyone playing treats each other with Kindness, Cons
 
 Your first time running this game will be awkward. Embrace it! But don’t budge on the fundamental rules - treating each other with Kindness, Consideration, and Respect at all times.
 
-GAME REQUIREMENTS:
+# Game Requirements
 
 Gather at least three players to make a mob, upper limit unknown... You facilitate. I (the designer) have played with 15 players in the mob.
 
@@ -20,7 +20,7 @@ Get one shared keyboard - consider having some hand sanitizer available to avoid
 Get one or two pairs of scissors and tape - scotch, masking, poster tape will all work.
 Print out all 3 Level 1 playbooks for each player in your game, and at least one set of Level 2 playbooks.
 
-BEFORE THE GAME SESSION (before players sit down to play):
+# Before players sit down to play
 
 Set up an IDE with a test file in a coding language that at least one person in your session will be fluent in. 
 Create one test failing successfully in a test file in the coding language of choice.
@@ -29,7 +29,7 @@ Install and Use the Mob Timer to guide mob role rotations (optional)
 Plan to solve the FizzBuzz kata - creating a solution that generates output matching the pattern of “1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz, 16....” up to a given number.
 Create and label a Mob Squad zone, a mob badge parking lot, by setting aside a piece of blank wall or whiteboard that will be covered in mob badges that individuals players complete. This becomes the group’s achievement, the total number of playbooks the members of completed.
 
-DURING THE GAME SESSION:
+# Starting the game
 
 Read aloud: 
 
