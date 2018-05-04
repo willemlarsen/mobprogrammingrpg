@@ -47,7 +47,8 @@ Read aloud:
 
 “When you check all the boxes you can switch playbooks, but we’ll talk more about that once it happens.”
 
-# Decide the order of rotation, have the players get in their positions as decided by the rotation order, Driver/Navigator/Mob. Before you start the timer tell the players:
+Decide the order of rotation, have the players get in their positions as decided by the rotation order, Driver/Navigator/Mob. 
+# Before you start the timer tell the players:
 
 “As you can tell by looking at your playbooks, the Driver’s job is to type what the Navigator instructs them to type. The Navigator’s job is to sift the ideas of the mob and instruct the Driver what to type.
 
