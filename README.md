@@ -15,11 +15,11 @@ Your first time running this game will be awkward. Embrace it! But don’t budge
 Gather at least three players to make a mob, upper limit unknown... You facilitate. I (the designer) have played with 15 players in the mob.
 
     NOTE: No prior mobbing experience is necessary.
-Verify that at least one person in this mob must have some minimum fluency in Test Driven Development; i.e., ability to move fluently through the Red, Green, Refactor stages with minimal code necessary.
-Get a shared screen big enough for all players to see comfortably - you might consider using a projector. Large screen TVs work great.
-Get one shared keyboard - consider having some hand sanitizer available to avoid sharing cooties.
-Get one or two pairs of scissors and tape - scotch, masking, poster tape will all work.
-Print out all 3 Level 1 playbooks for each player in your game, and at least one set of Level 2 playbooks.
+* Verify that at least one person in this mob must have some minimum fluency in Test Driven Development; i.e., ability to move fluently through the Red, Green, Refactor stages with minimal code necessary.
+* Get a shared screen big enough for all players to see comfortably - you might consider using a projector. Large screen TVs work great.
+* Get one shared keyboard - consider having some hand sanitizer available to avoid sharing cooties.
+* Get one or two pairs of scissors and tape - scotch, masking, poster tape will all work.
+* Print out all 3 Level 1 playbooks for each player in your game, and at least one set of Level 2 playbooks.
 
 # Before players sit down to play
 
