@@ -23,12 +23,17 @@ Print out all 3 Level 1 playbooks for each player in your game, and at least one
 
 # Before players sit down to play
 
-Set up an IDE with a test file in a coding language that at least one person in your session will be fluent in. 
+* Set up an IDE with a test file in a coding language that at least one person in your session will be fluent in. 
 Create one test failing successfully in a test file in the coding language of choice.
-Decide on some way to time rotations for three roles - Driver, Navigator and Mobber.  You will lead the rotation of Driver/Navigator positions every 3 minutes. The Driver moves to the right and becomes the new Navigator, the Navigator becomes a generic Mobber. Rotate consistently in a fixed order. 
-Install and Use the Mob Timer to guide mob role rotations (optional)
-Plan to solve the FizzBuzz kata - creating a solution that generates output matching the pattern of “1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz, 16....” up to a given number.
-Create and label a Mob Squad zone, a mob badge parking lot, by setting aside a piece of blank wall or whiteboard that will be covered in mob badges that individuals players complete. This becomes the group’s achievement, the total number of playbooks the members of completed.
+Decide on some way to time rotations for three roles - Driver, Navigator and Mobber.  
+
+* You will lead the rotation of Driver/Navigator positions every 3 minutes. The Driver moves to the right and becomes the new Navigator, the Navigator becomes a generic Mobber. Rotate consistently in a fixed order. 
+
+* Install and Use the Mob Timer to guide mob role rotations (optional).
+
+* Plan to solve the FizzBuzz kata - creating a solution that generates output matching the pattern of “1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz, 16....” up to a given number.
+
+* Create and label a Mob Squad zone, a mob badge parking lot, by setting aside a piece of blank wall or whiteboard that will be covered in mob badges that individuals players complete. This becomes the group’s achievement, the total number of playbooks the members of completed.
 
 # Starting the game
 
