@@ -70,7 +70,7 @@ Every rotation, stop the rotation and ask the players the following questions  (
 
 “What stands out for you? What did you notice about the coding challenge, or the overall gameplay? Is there anything you're struggling with?”
 
-Don’t spend more than 5 minutes on this discussion. Make it brief and take notes, restart the timer and go two more rotations again before having another Q&A. Rinse and repeat.
+Don’t spend more than 5 minutes on this discussion. Make it brief and take notes, restart the timer and have another Q&A at the end of the next rotation. Rinse and repeat.
 
 # When a player finishes a playbook
 
