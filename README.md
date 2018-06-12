@@ -60,7 +60,7 @@ Decide the order of rotation, have the players get in their positions as decided
 
 "Now this game can get crazy and the coding challenge can make you forget that you have playbooks to complete. Therefore, the person directly to the right of the Navigator, your job is to help the Navigator remember to check boxes when they complete the XP behaviors. The person directly to the left of the Driver has the same job, to remind the Driver when they have completed a behavior and can check a box."
 
-"Remember, our goal is to finish as many playbooks as possible in an hour and beat previous records (as of 5-2018 the record is 39 badges in an hour). Any questions?”
+"Remember, our goal is to finish as many playbooks as possible in an hour and beat previous records (as of May 2018 the record is 39 badges in an hour). Any questions?”
 
 Barring unanswerable questions, now start the 3 minute timer. Rotate positions when the timer goes off - Driver becomes Navigator, Navigator becomes mob member, and the next mob member becomes Driver.
 
