@@ -12,7 +12,7 @@ Your first time running this game will be awkward. Embrace it! But don’t budge
 
 # Game Requirements
 
-Gather at least three players to make a mob, upper limit unknown... You facilitate. I (the designer) have played with 15 players in the mob.
+Gather at least three players to make a mob, upper limit unknown... You facilitate. I (the designer) have played with up to 15 players in the mob.
 
     NOTE: No prior mobbing experience is necessary.
 * Verify that at least one person in this mob must have some minimum fluency in Test Driven Development; i.e., ability to move fluently through the Red, Green, Refactor stages with minimal code necessary.
