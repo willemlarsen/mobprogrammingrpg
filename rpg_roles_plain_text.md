@@ -56,6 +56,12 @@
 - Suggest a way to help the team remember to follow a process or working agreement
 - Point out when a process or working agreement is no longer needed
 
+## Anthropologist
+- Record history of the team in an easily accessible artifact
+- Facilitate reflection on a new mob habit
+- Make an artifact to support addtion and education of new mob members
+- Submit a pull request for a new role to the Mob Programming RPG
+
 ## Conductor - playbook in progress
 - Take 2 or more ideas from other people in the mob and discard the first.
 - Ask and get an idea from someone in the mob who has been quiet.
