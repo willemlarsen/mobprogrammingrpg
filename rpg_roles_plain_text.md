@@ -50,6 +50,11 @@
 - Express an idea as it is taking shape on a big visible chart or whiteboard	
 - Articulate the current task at hand and make it visible to the entire mob
 
+## Traffic Cop
+- Suggest a relevent new process or working agreement
+- Point out when the team violates a process or working agreement
+- Suggest a way to help the team remember to follow a process or working agreement
+- Point out when a process or working agreement is no longer needed
 
 ## Conductor - playbook in progress
 - Take 2 or more ideas from other people in the mob and discard the first.
