@@ -49,3 +49,16 @@
 
 - propose a quick retrospective
 - the quick retro turns up the good
+
+## Archivist
+- Record solution alternatives on a big visible chart or whiteboard so they’re not forgotten
+- Express an idea as it is taking shape on a big visible chart or whiteboard	
+- Articulate the current task at hand and make it visible to the entire mob
+
+
+## Conductor - [Alternative to Navigator -- playbook under construction]
+- Take 2 or more ideas from other people in the mob and discard the first.
+- Ask and get an idea from someone in the mob who has been quiet.
+- Make a totally ridiculous suggestion and ask for people’s options.
+- Defer to junior or least privileged voice for suggestion on next move.
+ 
