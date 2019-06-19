@@ -72,6 +72,8 @@ Every rotation, stop the rotation and ask the players the following questions  (
 
 Don’t spend more than 5 minutes on this discussion. Make it brief and take notes, restart the timer and have another Q&A at the end of the next rotation. Rinse and repeat.
 
+All roles except Driver and Navigator travel with the player. Driver and Navigator role sheets are used when at those positions in rotation. Keep any previous role sheet available to resume for when you are done with Driver/Navigator roles.
+
 # When a player finishes a playbook
 
 Ask them to cut out the icon badge on the dotted line, put tape on the back and stick it up in the mob badge parking lot. This zone is the group Mob Squad and will fill up with the various badges as they finish playbooks.
