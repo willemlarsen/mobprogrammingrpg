@@ -72,7 +72,7 @@ Every rotation, stop the rotation and ask the players the following questions  (
 
 Don’t spend more than 5 minutes on this discussion. Make it brief and take notes, restart the timer and have another Q&A at the end of the next rotation. Rinse and repeat.
 
-All roles except Driver and Navigator travel with the player. Driver and Navigator role sheets are used when at those positions in rotation. Keep any previous role sheet available to resume for when you are done with Driver/Navigator roles.
+All roles except Driver and Navigator travel with the player. Driver and Navigator role sheets are pulled out and used, *and can score XP*, only when at those positions in rotation, not in the general mob. Keep any previous role sheet available to resume for when you are done with Driver/Navigator rotation (and therefore can no longer get XP for those roles until you rotate back into them).
 
 # When a player finishes a rolesheet
 
