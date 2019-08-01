@@ -56,12 +56,23 @@
 - Articulate the current task at hand and make it visible to the entire mob
 - Capture design decisions and other technical details for the team*
 
+## Traffic Cop
+- Suggest a relevent new process or working agreement
+- Point out when the team violates a process or working agreement
+- Suggest a way to help the team remember to follow a process or working agreement
+- Point out when a process or working agreement is no longer needed
+
+## Anthropologist
+- Record history of the team in an easily accessible artifact
+- Facilitate reflection on a new mob habit
+- Make an artifact to support addtion and education of new mob members
+- Submit a pull request for a new role to the Mob Programming RPG
+
 ## Disciplinarian
 - Remind the group to check if the tests pass.
 - Remind the group to write a test before writing code.
 - Remind the group to not refactor if the tests are red.
 - Remind the group to refactor when the bar is green.
-- Remind the group to only write as much code as is necessary to make the current test pass.
 
 ## Conductor - [Alternative to Navigator -- playbook under construction]
 - Take 2 or more ideas from other people in the mob and discard the first.
