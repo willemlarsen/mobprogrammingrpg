@@ -57,7 +57,7 @@
 - Capture design decisions and other technical details for the team*
 
 ## Traffic Cop
-- Suggest a relevent new process or working agreement
+- Suggest a relevant new process or working agreement
 - Point out when the team violates a process or working agreement
 - Suggest a way to help the team remember to follow a process or working agreement
 - Point out when a process or working agreement is no longer needed
@@ -65,7 +65,7 @@
 ## Anthropologist
 - Record history of the team in an easily accessible artifact
 - Facilitate reflection on a new mob habit
-- Make an artifact to support addtion and education of new mob members
+- Make an artifact to support addition and education of new mob members
 - Submit a pull request for a new role to the Mob Programming RPG
 
 ## Disciplinarian
