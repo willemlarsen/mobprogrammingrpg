@@ -79,5 +79,19 @@
 - Ask and get an idea from someone in the mob who has been quiet.
 - Make a totally ridiculous suggestion and ask for people’s options.
 - Defer to junior or least privileged voice for suggestion on next move.
+
+## Major Pain
+- Verbalize to the mob pain felt in the process, tools, interpersonal interactions
+- Notice pain being felt by others in the mob. Ask about it and show empathy. 
+- Amplify pain that is being ignored by the mob (e.g. repeating issues)
+- Call for a retrospective on a pain point to inspect and adapt on
+
+## Dr. Feel Good
+- Show appreciation to another mobber or to a stakeholder (e.g. using the SBI model)
+- Verbalize something about mobbing or the work that gives you joy
+- Notice happiness expressed by others in the mob and ask about it
+- Call for a retrospective on a something good that occurred recently to see how it can be turned up
   
-*from https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/
+*Major Pain and Dr. Feel Good from 
+https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/
+
