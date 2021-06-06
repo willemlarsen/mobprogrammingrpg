@@ -50,17 +50,29 @@
 - propose a quick retrospective
 - the quick retro turns up the good
 
-## Archivist
+## Archivist (AKA Recorder*)
 - Record solution alternatives on a big visible chart or whiteboard so they’re not forgotten
 - Express an idea as it is taking shape on a big visible chart or whiteboard	
 - Articulate the current task at hand and make it visible to the entire mob
+- Capture design decisions and other technical details for the team*
+
+## Traffic Cop
+- Suggest a relevant new process or working agreement
+- Point out when the team violates a process or working agreement
+- Suggest a way to help the team remember to follow a process or working agreement
+- Point out when a process or working agreement is no longer needed
+
+## Anthropologist
+- Record history of the team in an easily accessible artifact
+- Facilitate reflection on a new mob habit
+- Make an artifact to support addition and education of new mob members
+- Submit a pull request for a new role to the Mob Programming RPG
 
 ## Disciplinarian
 - Remind the group to check if the tests pass.
 - Remind the group to write a test before writing code.
 - Remind the group to not refactor if the tests are red.
 - Remind the group to refactor when the bar is green.
-- Remind the group to only write as much code as is necessary to make the current test pass.
 
 ## Conductor - [Alternative to Navigator -- playbook under construction]
 - Take 2 or more ideas from other people in the mob and discard the first.
@@ -79,3 +91,7 @@
 - Verbalize something about mobbing or the work that gives you joy
 - Notice happiness expressed by others in the mob and ask about it
 - Call for a retrospective on a something good that occurred recently to see how it can be turned up
+  
+*Major Pain and Dr. Feel Good from 
+https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/
+
