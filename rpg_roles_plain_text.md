@@ -100,6 +100,8 @@
 - Try some crazy Idea.
 - Mention a thing you've learned in the session.
 - Make a mistake
+
+
 *Major Pain and Dr. Feel Good from 
 https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/
 
