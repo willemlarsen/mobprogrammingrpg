@@ -92,6 +92,13 @@
 - Notice happiness expressed by others in the mob and ask about it
 - Call for a retrospective on a something good that occurred recently to see how it can be turned up
   
+## The Beginner
+- Drive a language you haven't used before.
+- Navigate a language you haven't used before.
+- Ask a question when you don't understand something.
+- Keep asking follow-up questions to given aswers.
+- Try some crazy Idea.
+
 *Major Pain and Dr. Feel Good from 
 https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/
 
