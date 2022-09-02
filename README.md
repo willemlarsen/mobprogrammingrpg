@@ -27,11 +27,16 @@ Gather at least three players to make a mob, upper limit unknown... You facilita
 Create one test failing successfully in a test file in the coding language of choice.
 Decide on some way to time rotations for three roles - Driver, Navigator and Mobber.  
 
+* Plan to solve the FizzBuzz kata - creating a solution that generates output matching the pattern of “1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz, 16....” up to a given number.
+
+* If you complete that kata too quickly, here are some ideas for extending the exercise. 
+    1. Pass divisor arguments: `FizzBuzzExtended(100, {fizz: 3, buzz: 4})` 
+    2. Pass any number of divisor arguments: `FizzBuzzExtended(100, {fizz: 3, buzz: 4, foo: 8, bar: 9})`
+    3. Create a FizzBuzz cuckoo clock that accepts a time in 24-hour format (`FizzBuzzCuckoo("16:15")`) and returns "Fizz," "Buzz," or "FizzBuzz" if the minute portion is evenly divisible, "Cuckoo" if the time is on a half hour, or as many "Cuckoos" as needed for the top of the hour (e.g. 6 if given `"06:00"` or `"18:00"`.
+
 * You will lead the rotation of Driver/Navigator positions every 3 minutes. The Driver moves to the right and becomes the new Navigator, the Navigator becomes a generic Mobber. Rotate consistently in a fixed order. 
 
 * Install and Use the Mob Timer to guide mob role rotations (optional).
-
-* Plan to solve the FizzBuzz kata - creating a solution that generates output matching the pattern of “1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz, 16....” up to a given number.
 
 * Create and label a Mob Squad zone, a mob badge parking lot, by setting aside a piece of blank wall or whiteboard that will be covered in mob badges that individuals players complete. This becomes the group’s achievement, the total number of rolesheets the members have completed.
 
