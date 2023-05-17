@@ -38,6 +38,10 @@
 - Point out possible boiler plate code
 - Propose an automation for a repeated task
 
+## The Efficiency Expert
+
+- Notice waste and make a note of it
+- Contribute a strategy for reducing that waste
 ## Nose
 - Point out a long line of code
 - Point out a complex conditional
