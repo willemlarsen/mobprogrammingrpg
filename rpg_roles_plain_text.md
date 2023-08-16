@@ -12,7 +12,7 @@
 - Create a failing test. Make it pass. Refactor.
 
 ## Mobber
-- Yield to the less privileged voice
+- Yield to the less-privileged voice
 - Contribute an idea
 - Ask questions till you understand
 - Listen on the edge of your seat
