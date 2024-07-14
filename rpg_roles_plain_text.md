@@ -103,3 +103,8 @@
 *Major Pain and Dr. Feel Good from 
 https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/
 
+### The Dissident
+- When everyone agrees with a decision, argue against the prevailing consensus.
+
+*Aka The Tenth Man Rule: https://www.linkedin.com/pulse/tenth-man-rule-david-lord/
+
