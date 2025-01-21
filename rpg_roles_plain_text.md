@@ -103,3 +103,8 @@
 *Major Pain and Dr. Feel Good from 
 https://www.agilealliance.org/resources/experience-reports/harvesting-mob-programming-patterns-observing-how-we-work/
 
+### Pad Lock
+- Point out an OWASP Violation
+- Point out a new attack vector
+- Navigate a solution to an attack vector
+- Initiate a threat analysis with the team
